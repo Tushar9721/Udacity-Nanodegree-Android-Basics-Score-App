@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper Application</string>
+    <string name="MainHeading">Football</string>
+    <string name="teamA">New York Giants</string>
+    <string name="DefaultValue">0</string>
+    <string name="teamB">Chicago Bears</string>
+    <string name="ButtonReset">Reset Score</string>
+    <string name="touchdown_6">+6 (Touchdown)</string>
+    <string name="fieldGoal_3">+3 (FieldGoal)</string>
+    <string name="saftey_2">+2 (Safety)</string>
+    <string name="point_1">+1 (Point)</string>
+    <string name="point_2">+2 (Points)</string>
+</resources>
